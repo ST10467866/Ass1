@@ -12,7 +12,7 @@
 
 # [Project overview]
 
-The **[Eazy.Meals]** is a mobile application developed as part of an assignment in the [IMAD5111] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [Display meal options based on the time of day].
+The **[Eazzy.Meals]** is a mobile application developed as part of an assignment in the [IMAD5111] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [Display meal options based on the time of day].
 
 The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
 ```
@@ -33,7 +33,7 @@ These features aim to provide [The best meals suited for the user based on the t
 
 ## Design Considerations:
 
-The design of the **[Eazy.Meals]** was based on the following key considerations:
+The design of the **[Eazzy.Meals]** was based on the following key considerations:
 
 1. **User Experience (UX)**: The app was designed with the goal of providing an intuitive and easy-to-navigate user interface, ensuring a seamless user experience.
    
