@@ -7,31 +7,33 @@
 - **Subject**: [IMAD5111]
 
 ## Links
-- **GitHub Repository**: [Repository URL]
+- **GitHub Repository**: [https://github.com/ST10467866/Ass1]
 - **YouTube Video**: [YouTube Video Link]
 
 # [Project overview]
 
-The **[App Title]** is a mobile application developed as part of an assignment in the [Course Name] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [briefly describe the purpose of the app, e.g., provide a task management system, display weather forecasts, etc.].
+The **[Eazy.Meals]** is a mobile application developed as part of an assignment in the [IMAD5111] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [Display meal options based on the time of day].
 
 The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
 ```
 ## Purpose and Features
 
 ### Purpose:
-The main goal of this app is to [explain the app’s functionality]. 
+The main goal of this app is to [Provide a user with 3 meal options based on the time of day given by a user]. 
 
 ### Key Features:
-- Feature 1: [Description of a feature, e.g., "User login functionality"]
-- Feature 2: [Description of another feature, e.g., "Displaying weather data based on location"]
-- Feature 3: [Optional, another feature, e.g., "Push notifications for reminders"]
+- Feature 1: [User login functionality]
+- Feature 2: [Display 3 meal options per time of day]
+- Feature 3:[Back button and Enter button]
+- Feature 4: [First screen displays where the user will enter the time of day]
+- Feature 5: [Second screen displays 3 meal choices based on the time of day inputed on the first screen]
 
-These features aim to provide [what the app aims to achieve, e.g., an easy-to-use platform for managing tasks or organizing personal information].
+These features aim to provide [The best meals suited for the user based on the time of day].
 
 
 ## Design Considerations:
 
-The design of the **[App Title]** was based on the following key considerations:
+The design of the **[Eazy.Meals]** was based on the following key considerations:
 
 1. **User Experience (UX)**: The app was designed with the goal of providing an intuitive and easy-to-navigate user interface, ensuring a seamless user experience.
    
@@ -82,10 +84,9 @@ From these challenges, I learned important lessons in debugging, using version c
 
 While the current version of the app provides the core functionality, there are several features that could be added in the future, including:
 
-1. **Feature 1**: [Description, e.g., "Allowing users to set up reminders or notifications."]
-2. **Feature 2**: [Description, e.g., "Integrating with a cloud database for storing user data."]
-3. **Feature 3**: [Description, e.g., "Adding a dark mode option for better user experience."]
-
+1. **Feature 1**: [Ingredient list]
+2. **Feature 2**: [Having a 3rd screen]
+3. **Feature 3**: [A way to share the meal options with a friend]
 These enhancements would improve the app’s usability and make it even more versatile for end-users.
 
 ## References
