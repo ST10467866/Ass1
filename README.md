@@ -1,18 +1,18 @@
 
-# [Eazzy.Meals]
-- **Developer**: [Leah Naiker]
-- **Student Number**: [ST10467866]
-- **Group**: [GR.01]
-- **Course**: [HMAW0501]
-- **Subject**: [IMAD5111]
+# Eazzy.Meals
+- **Developer**: Leah Naiker
+- **Student Number**: ST10467866
+- **Group**: GR.01
+- **Course**: HMAW0501
+- **Subject**: IMAD5112
 
 ## Links
-- **GitHub Repository**: [https://github.com/ST10467866/Ass1]
-- **YouTube Video**: [YouTube Video Link]
+- **GitHub Repository**: https://github.com/ST10467866/Ass1
+- **YouTube Video**: YouTube Video Link
 
-# [Project overview]
+# Project overview
 
-The **[Eazzy.Meals]** is a mobile application developed as part of an assignment in the [IMAD5111] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [Display meal options based on the time of day].
+The **Eazzy.Meals** is a mobile application developed as part of an assignment in the IMAD5111 subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to Display meal options based on the time of day.
 
 The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
 ```
@@ -22,18 +22,18 @@ The app was developed to meet the requirements of the assignment, which includes
 The main goal of this app is to [Provide a user with 3 meal options based on the time of day given by a user]. 
 
 ### Key Features:
-- Feature 1: [User login functionality]
-- Feature 2: [Display 3 meal options per time of day]
-- Feature 3:[Back button and Enter button]
-- Feature 4: [First screen displays where the user will enter the time of day]
-- Feature 5: [Second screen displays 3 meal choices based on the time of day inputed on the first screen]
+- Feature 1: User login functionality
+- Feature 2: Display 3 meal options per time of day
+- Feature 3:Back button and Enter button
+- Feature 4: First screen displays where the user will enter the time of day
+- Feature 5: Second screen displays 3 meal choices based on the time of day inputed on the first screen
 
-These features aim to provide [The best meals suited for the user based on the time of day].
+These features aim to provide The best meals suited for the user based on the time of day.
 
 
 ## Design Considerations:
 
-The design of the **[Eazzy.Meals]** was based on the following key considerations:
+The design of the **Eazzy.Meals** was based on the following key considerations:
 
 1. **User Experience (UX)**: The app was designed with the goal of providing an intuitive and easy-to-navigate user interface, ensuring a seamless user experience.
    
@@ -84,9 +84,9 @@ From these challenges, I learned important lessons in debugging, using version c
 
 While the current version of the app provides the core functionality, there are several features that could be added in the future, including:
 
-1. **Feature 1**: [Ingredient list]
-2. **Feature 2**: [Having a 3rd screen]
-3. **Feature 3**: [A way to share the meal options with a friend]
+1. **Feature 1**: Ingredient list
+2. **Feature 2**: Having a 3rd screen
+3. **Feature 3**: A way to share the meal options with a friend
 These enhancements would improve the app’s usability and make it even more versatile for end-users.
 
 ## References
@@ -106,33 +106,18 @@ These enhancements would improve the app’s usability and make it even more ver
 In the development of this project, I have used generative AI tools to assist in various parts of the assignment. Below is a detailed disclosure of where and how these tools were used:
 
 ### 1. **Section(s) in which Generative AI was used:**
-- **Question 2.2**: Used AI for brainstorming ideas for the app's features.
-- **Part 5**: Assisted in creating code snippets for setting up GitHub Actions workflows.
-- **Part 3**: Used AI to help improve the grammar and clarity of the report.
+- **1.**: Used AI to help link my first screen TimeOfDay to my secound screen which would display the meal choices based off the time of day.
 
 ### 2. **Name of AI Tool(s) Used:**
 - **ChatGPT** (OpenAI)
-- **GitHub Copilot** (GitHub)
 
 ### 3. **Purpose/Intention Behind Use:**
-- **Brainstorming**: Used ChatGPT to generate ideas for the app’s features and functionality.
-- **Meaning Making**: Used AI to clarify some concepts and gain a better understanding of how certain technologies (e.g., GitHub Actions) work.
-- **Initial Investigation**: Utilized AI to conduct research on best practices for Android app development and GitHub Actions setup.
-- **Code Assistance**: GitHub Copilot was used to assist in writing specific parts of the code, such as setting up GitHub Actions and working with Gradle.
-- **Correcting Grammar and Spelling**: ChatGPT helped review and correct the grammar and clarity of my project report.
+- **Code Assistance**: ChatGPT was used to assist in writing specific parts of the code, such as linking the input from the first screen to the second screen.
 
 ### 4. **Date(s) in Which Generative AI Was Used:**
-- **Question 2.2**: AI used on **March 5, 2025** for brainstorming feature ideas.
-- **Part 5**: AI used on **March 8, 2025** to help set up GitHub Actions.
-- **Part 3**: AI used on **March 10, 2025** for reviewing the final report.
+- **1.**: AI used on **March 28, 2025** for code assistance.
 
 ### 5. **Link to the AI Chat(s) or Screenshots:**
 - **Chat 1 (Brainstorming App Features)**: [Link to the AI conversation/chat](insert_link_here)  
   *(Screenshot/Link to Chat: AI provided feature ideas for app development)*
-
-- **Chat 2 (GitHub Actions Workflow Setup)**: [Link to the AI conversation/chat](insert_link_here)  
-  *(Screenshot/Link to Chat: AI assisted with configuring GitHub Actions for the project)*
-
-- **Chat 3 (Grammar Review)**: [Link to the AI conversation/chat](insert_link_here)  
-  *(Screenshot/Link to Chat: AI helped in reviewing and correcting the report’s grammar)*
 
