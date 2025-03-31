@@ -1,4 +1,3 @@
-
 # Eazzy.Meals
 - **Developer**: Leah Naiker
 - **Student Number**: ST10467866
